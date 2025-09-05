@@ -2,6 +2,12 @@
 
 A modern, responsive quiz application built with React that features both local and API-based questions, scoring system, and beautiful UI with glass morphism design.
 
+## 🌐 Live Demo
+
+**[Try the Quiz App Live](https://quiz-app-steel-kappa-99.vercel.app)**
+
+Experience the full-featured React Quiz App deployed on Vercel with all interactive features including timer, scoring, and beautiful animations.
+
 ## 🚀 Features
 
 ### Core Features
@@ -57,7 +63,7 @@ A modern, responsive quiz application built with React that features both local 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/QuizApp.git
+git clone https://github.com/snehasharma200303/QuizApp.git
 cd QuizApp
 ```
 
