@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the correct way to create a React component?",
+    "options": [
+      "function MyComponent() { return <div>Hello</div>; }",
+      "const MyComponent = () => { return <div>Hello</div>; }",
+      "class MyComponent extends React.Component { render() { return <div>Hello</div>; } }",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Which hook is used to manage state in functional components?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useContext",
+      "useReducer"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "question": "What is the purpose of the useEffect hook?",
+    "options": [
+      "To manage component state",
+      "To handle side effects in functional components",
+      "To create context providers",
+      "To optimize component rendering"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "question": "Which method is called when a component is first mounted?",
+    "options": [
+      "componentDidUpdate",
+      "componentWillUnmount",
+      "componentDidMount",
+      "componentWillMount"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "question": "What is JSX?",
+    "options": [
+      "A JavaScript library",
+      "A syntax extension for JavaScript",
+      "A CSS framework",
+      "A testing tool"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "How do you pass data from parent to child component?",
+    "options": [
+      "Using state",
+      "Using props",
+      "Using context",
+      "Using refs"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "What is the virtual DOM?",
+    "options": [
+      "A copy of the real DOM kept in memory",
+      "A JavaScript library",
+      "A CSS framework",
+      "A testing environment"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is NOT a React hook?",
+    "options": [
+      "useState",
+      "useEffect",
+      "useComponent",
+      "useContext"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "question": "What is the correct way to handle events in React?",
+    "options": [
+      "onclick=\"handleClick()\"",
+      "onClick={handleClick}",
+      "onCLick=\"handleClick\"",
+      "click={handleClick}"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "question": "What is React Context used for?",
+    "options": [
+      "Managing component lifecycle",
+      "Handling HTTP requests",
+      "Sharing data across components without prop drilling",
+      "Styling components"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard"
+  }
+]
